@@ -1,0 +1,3 @@
+#!/bin/bash
+scrot /tmp/screen_lock.png
+i3lock -i /tmp/screen_lock.png
